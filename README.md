@@ -1,4 +1,4 @@
-# CODSOFT-
+# CODSOFT INTERNSHIP -
 💻Task 1 :- Bank customer churn Prediction
 
 📚 Description:-
